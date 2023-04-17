@@ -1,0 +1,10 @@
+RANDOM CLONING FREE 
+
+
+git clone https://github.com/HACKERBOYAHADFB/HACKER-ACADEMY-
+
+
+cd HACKER-ACADEMY-
+
+
+python AHAD.py
